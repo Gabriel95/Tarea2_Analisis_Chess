@@ -6,6 +6,9 @@
 
 QT       += core gui
 QT += gui declarative
+CONFIG += qt
+QT += gui
+
 TARGET = Chess
 TEMPLATE = app
 
